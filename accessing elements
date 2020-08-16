@@ -1,0 +1,15 @@
+numbers1=[5,10,15,20,25,30,35]
+numbers2=[2,4,6,8,10,12,14,16]
+
+numbers1[1:3]+numbers2[2:4]
+
+
+myTuple=("c","c++","python")
+print(myTuple[2])
+
+
+numbers1=[5,10,15,20,25,30,35]
+numbers2=[2,4,6,8,10,12,14,16]
+
+del numbers1[3]
+print(numbers1)
